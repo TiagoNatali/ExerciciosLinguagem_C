@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TiagoNatali
 - 👀 I'm interested in creating my first project
-- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas
+- 🌱 I’m currently learning analysis and systems development
 - 📫 To get in touch; tiago_natali@outlook.com
 
 <!---
